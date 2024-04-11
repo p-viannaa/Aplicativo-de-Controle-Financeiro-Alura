@@ -1,18 +1,12 @@
-## Getting Started
+## Controle Financeiro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O aplicativo utiliza a linguagem Java, com o pacote JDK 17, para o desenvolvimento de um aplicativo teste de controle financeiro, que roda no próprio Terminal do usuário.
 
-## Folder Structure
+Ele foi construído como o projeto final do curso JAva: Criando sua primeira aplicação, da Alura.
 
-The workspace contains two folders by default, where:
+## Operações
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O aplicativo permite o total de 3 operações:
+*1- Consultar saldos
+*2- Receber valor
+\*3- Transferir valor
